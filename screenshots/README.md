@@ -1,1 +1,3 @@
 ##### You can also find some of this work on [ArtStation](https://www.artstation.com/samskol)
+
+I use Maya for modeling and uv's. I then send many triangulated meshes over to XNormal for baking and send these to Quixel. After Quixel I go back into maya for rigging and animation. TSM3 simplifies the rigging process quite a bit and allows me to focus on weights and blendshapes. With animation TSM3 also allows you to bring in mocap data for a starting place. That along with mirroring conrols allows for quick animations. I then send a model along with each animation in fbx format to the game engine of choice.
